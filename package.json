@@ -1,0 +1,19 @@
+{
+  "name": "byte-tonic",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@hfcjoy/eslint-config-typescript": "2.0.1",
+    "@types/node": "18.15.5",
+    "eslint": "8.36.0",
+    "prettier": "2.8.6",
+    "typescript": "5.0.2"
+  }
+}
