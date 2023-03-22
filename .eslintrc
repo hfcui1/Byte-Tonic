@@ -1,3 +1,6 @@
 {
-  "extends": ["@hfcjoy/typescript"]
+  "extends": ["@hfcjoy/typescript"],
+  "rules": {
+    "semi": "error"
+  }
 }
